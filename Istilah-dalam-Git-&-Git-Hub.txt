@@ -1,0 +1,3 @@
+ISTILAH DALAM GIT & GIT HUB
+
+1. Repository = Folder project kita
