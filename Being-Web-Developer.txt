@@ -1,0 +1,11 @@
+Being Web Developer
+- Dasar-dasar yang harus dipelajari
+1. Git & Git Hub
+2. Basic Terminal Usage
+3. Data Structures & Algorithms
+4. Design Pattern (YAGNI, KISS, SOLID)
+5. Licences
+6. Semantic Versioning
+7. SSH
+8. HTTP/HTTPS & API's
+9. Characters Encoding
